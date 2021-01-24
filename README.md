@@ -3,7 +3,7 @@
 ## File description
 Under each folder named by molecule name, the follwing files are included:
 
-**molecule.sdf**: the initial structure file of the molecule.
+**molecule.sdf**: the initial structure file of the molecule.\
 **molecule_MD#_GIST-2016-energy-dens.dx**: the energy density calculated by GIST-2016 using minima image convention algorithm. \
 **molecule_MD#_PME-GIST-energy-dens.dx**: the energy density calculated by PME-GIST using particle mesh Ewald algorithm. \
 **molecule_MD#_GIST-TSsix-dens.dx**: the temperatue*(300K)*entropy calculated by GIST. \
