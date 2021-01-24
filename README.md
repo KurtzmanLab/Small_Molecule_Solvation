@@ -1,6 +1,6 @@
 # Small molecule solvation by PME-GIST
 
-This repository provides the supporting information of study small molecule solvation by particle mesh Ewald based Grid Inhomegeneous Theory (PME-GIST).
+This repository provides the supporting information of study small molecule solvation by particle mesh Ewald based Grid Inhomegeneous Solvation Theory (PME-GIST).
 
 ## File description
 
@@ -13,7 +13,7 @@ Under each folder named by molecule name, the follwing files are included:
 **molecule_MD#_polulation.dx**: the number of water molecule in each voxel. \
 **molecule_radial_distribution.png**: the solvation energy, entropy and free energy integrated within the region of different distance to the solute.\
 
-"#" stands for the MD replicate index
+"#" stands for the MD replicate index, the dx file is grided data in OpenDx file format.
 
 
 
