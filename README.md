@@ -1,6 +1,9 @@
-# The study of small molecule solvation by PME-GIST
+# Small molecule solvation by PME-GIST
+
+This repository provides the supporting information of study small molecule solvation by particle mesh Ewald based Grid Inhomegeneous Theory (PME-GIST).
 
 ## File description
+
 Under each folder named by molecule name, the follwing files are included:
 
 **molecule.sdf**: the initial structure file of the molecule.\
